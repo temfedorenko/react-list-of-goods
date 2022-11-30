@@ -1,0 +1,33 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+body {
+  min-height: 100vh;
+  font-size: 24px;
+  background-color: beige;
+
+}
+
+.level-item {
+  padding-top: 60px;
+}
+
+.box {
+  margin-top: 10px;
+}
+
+.item {
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+.button {
+  margin: 10px;
+}
+
+.is-extra-large {
+  padding: 0;
+  width: 300px;
+  height: 100px;
+  font-size: 60px;
+  line-height: 60px;
+}
